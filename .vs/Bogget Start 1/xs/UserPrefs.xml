@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{6FE39CB6-6458-DBF0-0655-96D0479D05B4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RollingBall.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RollingBall.cs" Line="18" Column="60" />
+      <File FileName="Assets/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs" Line="226" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.ide.visualstudio@2.0.9/Editor/VisualStudioIntegration.cs" />
+      <File FileName="Assets/LevelLoader.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="314b9744-4af7-499c-84ec-d043767f91ee" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
