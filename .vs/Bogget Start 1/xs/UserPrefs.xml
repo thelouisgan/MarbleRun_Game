@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{6FE39CB6-6458-DBF0-0655-96D0479D05B4}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RollingBall.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ObstacleCoursePack/Scripts/SavePos.cs">
     <Files>
-      <File FileName="Assets/Scripts/RollingBall.cs" Line="18" Column="60" />
-      <File FileName="Assets/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs" Line="226" Column="1" />
-      <File FileName="Library/PackageCache/com.unity.ide.visualstudio@2.0.9/Editor/VisualStudioIntegration.cs" />
-      <File FileName="Assets/LevelLoader.cs" />
+      <File FileName="Assets/ObstacleCoursePack/Scripts/SavePos.cs" Line="20" Column="15" />
+      <File FileName="Assets/ObstacleCoursePack/Scripts/WallMovable.cs" />
+      <File FileName="Assets/Scripts/RollingBall.cs" Line="10" Column="5" NotebookId="1" />
+      <File FileName="Assets/ObstacleCoursePack/Controller/CameraManager.cs" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="314b9744-4af7-499c-84ec-d043767f91ee" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9016e339-2d3b-4fa6-9244-fd029a44a635" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

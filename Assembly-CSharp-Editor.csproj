@@ -56,6 +56,8 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/NatureStarterKit2/Editor/ImageEffects/Bloom.cs" />
+    <Compile Include="Assets/NatureStarterKit2/Editor/ImageEffects/BloomAndFlares.cs" />
     <Compile Include="Assets/NatureStarterKit2/Editor/ImageEffects/DepthOfFieldEditor.cs" />
     <Compile Include="Assets/NatureStarterKit2/Editor/ImageEffects/NoiseAndGrainEditor.cs" />
     <Compile Include="Assets/NatureStarterKit2/Editor/ImageEffects/ColorCorrectionCurvesEditor.cs" />

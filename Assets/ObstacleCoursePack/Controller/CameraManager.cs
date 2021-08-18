@@ -83,7 +83,23 @@ public class CameraManager : MonoBehaviour {
 		HandleRotations(Time.deltaTime, v, h, targetSpeed); //Rotates camera
 	}
 
-	private void LateUpdate()
+    void Update()
+    {
+		if (Input.GetKeyDown(KeyCode.I) && cameraDist > 0)
+		{
+			Debug.Log("Zooming In!");
+			cameraDist--;
+		}
+
+		if (Input.GetKeyDown(KeyCode.O) && cameraDist < 20)
+		{
+            Debug.Log("Zooming Out!");
+            cameraDist++;
+		}
+	}
+
+
+    private void LateUpdate()
 	{
 		//Here begins the code that is responsible for bringing the camera closer by detecting wall
 		float dist = cameraDist + 1.0f; // distance to the camera + 1.0 so the camera doesnt jump 1 unit in if it hits someting far out
