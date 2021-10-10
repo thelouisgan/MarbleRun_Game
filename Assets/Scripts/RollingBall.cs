@@ -47,7 +47,7 @@ public class RollingBall : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space) && nbJumps < 2)
         {
-            body.AddForce(new Vector3(0, 12500f, 0));
+            body.AddForce(new Vector3(0, 500f, 0));
             //jump here
             nbJumps = nbJumps + 1;
             Debug.Log("Jump Initiated!");
